@@ -1,9 +1,48 @@
 # employee-report-excel-dashboard
 Interactive Excel dashboard analyzing employee performance, projects, tasks, working hours and remote work trends.
-## 📊 Dashboard Preview
+# 📊 Employee Performance & Project Operations Dashboard
 
-![Dashboard Overview](screenshots/dashboard-overview.png)
+An interactive Excel dashboard built to analyze employee
+performance, project progress, task completion, workload,
+and remote-work trends.
 
-![Employee Analysis](screenshots/employee-analysis.png)
+## 📌 Project Overview
 
-![Project Analysis](screenshots/project-analysis.png)
+This project analyzes 1,500 employee records containing
+department, project, task status, working hours,
+performance ratings, and location information.
+
+## 🛠️ Tools Used
+
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Conditional Formatting
+- Excel Formulas
+- Data Cleaning
+
+## 🎯 Business Questions
+
+The dashboard answers questions related to:
+
+- Employee distribution
+- Department performance
+- Project status
+- Task completion
+- Overdue tasks
+- Remote vs Office employees
+- Performance ratings
+- Working hours
+
+## 💡 Key Insights
+
+The dashboard helps identify:
+
+- Department-level performance patterns
+- Project completion status
+- Overdue tasks
+- Employee performance
+- Remote-work distribution
+- Workload patterns
+
