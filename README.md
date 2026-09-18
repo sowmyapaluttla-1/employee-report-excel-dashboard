@@ -46,7 +46,7 @@ The dashboard helps identify:
 - Remote-work distribution
 - Workload patterns
 
-<img width="400" height="300" alt="1-employee Analysis" src="https://github.com/user-attachments/assets/dea8a5bd-b0cd-473e-a36e-9ee8998e5a54" />
-<img width="400" height="400" alt="2-Project Analysis" src="https://github.com/user-attachments/assets/81b3532a-a421-451e-b282-90089cc9a7a4" />
+<img width="600" height="400" alt="1-employee Analysis" src="https://github.com/user-attachments/assets/dea8a5bd-b0cd-473e-a36e-9ee8998e5a54" />
+<img width="600" height="400" alt="2-Project Analysis" src="https://github.com/user-attachments/assets/81b3532a-a421-451e-b282-90089cc9a7a4" />
 <img width="600" height="400" alt="3-Task , Performance Analysis" src="https://github.com/user-attachments/assets/f28ec4b1-2ade-4640-910b-f6a51992ef9c" />
 
